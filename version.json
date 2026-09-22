@@ -1,9 +1,9 @@
 {
-  "version": "1.11.1",
-  "versionCode": 18,
-  "notes": "【临时测试清单】验证应用内下载并安装链路，稍后恢复为 1.11.0",
-  "apk": "DPS-1.11.1-test.apk",
-  "url": "http://10.0.2.2:8090/DPS-1.11.1-test.apk",
+  "version": "1.11.0",
+  "versionCode": 17,
+  "notes": "设置页可直接更新：检查到新版本后可「下载并安装」——应用内下载（带进度）→ SHA-256 校验 → 调起系统安装器（首次会引导你允许「安装未知应用」，回来再点一次即可）。另含手机适配（顶部让开状态栏/挖孔）与原生返回语义（切 Tab 不进历史、返回直接退出当前页），以及错误提示人话化（不再糊原始 JSON、不泄露 Key）",
+  "apk": "dps-1.11.0.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.11.0.apk",
   "sha256": "901d2460b6086c0bcb4f47e42cfa25d3447076a72faa17ac20d6982d9dbc9c5e",
   "size": 7376515
 }
