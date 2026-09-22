@@ -1,8 +1,8 @@
 {
-  "version": "1.9.1",
-  "versionCode": 11,
-  "notes": "修复 AI 弹窗被系统导航条/输入法遮挡（WindowInsets）；排版规则抽为纯函数并补 17 条 JVM 单测（含新发现：英文句点结尾不再粘连下一句）",
-  "apk": "dps-1.9.1.apk",
-  "sha256": "175bfbd5dbac24b2e2fe652f8f90e26e500babe01037535b24854926fb2a7481",
-  "size": 7342667
+  "version": "1.9.2",
+  "versionCode": 12,
+  "notes": "修复键盘弹起时 AI 弹窗被覆盖（insets 作用到弹窗外层）；阅读正文去重残行标点；排版规则单测增至 18 例并新增 scripts/run-unit-tests.ps1（中文路径也能跑）",
+  "apk": "dps-1.9.2.apk",
+  "sha256": "100e49dc1498e90dadb704e9284932f4d079734c11d5e05223ed5e8514c0b919",
+  "size": 7342671
 }
