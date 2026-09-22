@@ -1,9 +1,9 @@
 {
-  "version": "1.12.0",
-  "versionCode": 21,
-  "notes": "阅读排版重做：标题/子标题/正文/列表分样式；代码块按编辑器渲染（等宽不折行、可横向滚动、注释/关键字/字符串/数字分色、带语言标签与复制）；课程正文里成段的代码会自动识别成代码卡；AI 回复同样按这套渲染（标题/列表/代码块/行内代码）",
-  "apk": "dps-1.12.0.apk",
-  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.0.apk",
-  "sha256": "325ad801c545f885c580e915ec9f2783adb429f0f66866079acc1e62b3c47031",
+  "version": "1.12.1",
+  "versionCode": 22,
+  "notes": "修复选区手感：拖动圆点不再因坐标二次补偿而「轻轻一滑就整段全选」（实测小幅拖动只选中一个字符）；圆点触摸区从 9.2dp 放大到系统最小的 48dp，好拖多了；长按后手指直接拖动即可跟随手指扩展选区（原来拖正文只会滚动）",
+  "apk": "dps-1.12.1.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.1.apk",
+  "sha256": "51071ceea662b6cd12f6d92b887a8739374e110cc338d8639b1ae77cf485d9b6",
   "size": 7392899
 }
