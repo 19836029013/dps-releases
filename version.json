@@ -1,9 +1,9 @@
 {
-  "version": "1.11.1",
-  "versionCode": 18,
-  "notes": "修复 AI 回复变成一整段 nullnullnull 的问题（思考模型的流式块 content 为 JSON null，被 org.json 当成了字符串 \"null\"；现改为安全解析并接住 reasoning_content）。已装 1.11.0 的用户可直接在设置里「检查更新 → 下载并安装」升级",
-  "apk": "dps-1.11.1.apk",
-  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.11.1.apk",
-  "sha256": "781e7d109ff40b2176b3d2f0f387c7b8197480c062aab36ad3f667560ac6a946",
+  "version": "1.11.2",
+  "versionCode": 19,
+  "notes": "问 AI 弹窗对齐原型：去掉误入弹窗的选区工具条；输入框下方改为 [模型 pill] [风格 pill] + 发送键（点 pill 可切换模型/提示词风格）",
+  "apk": "dps-1.11.2.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.11.2.apk",
+  "sha256": "e6c76511745a86a1cd018d9bc61755fbbfca9796813d0b21431d05091fb0ca9f",
   "size": 7376515
 }
