@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "versionCode": 8,
-  "notes": "阅读排版清洗：合并 PDF 硬换行，修复 Eigen::Matrix4f / Eigen::Vector3f 这类被切断的单词，段落自然流动（不改内容包原文）；另含编号与 id 解耦、去 Markdown 标记、长按选中问 AI",
-  "apk": "dps-1.7.0.apk",
-  "sha256": "b90267bee0a278a880cc91610368f87f4e5aab830856801dee5ed48259511cdb",
+  "version": "1.8.0",
+  "versionCode": 9,
+  "notes": "阅读排版再优化：词条各自成行（闭括号/词条起首断行）、修复 Matrix4f4×4 这类字母接数字粘连；断词保持完整、段落自然流动",
+  "apk": "dps-1.8.0.apk",
+  "sha256": "e8f1018159239ca50ffeb597aad46f438e8548b4f789c8d2b7e771cd6d5ab820",
   "size": 7342667
 }
