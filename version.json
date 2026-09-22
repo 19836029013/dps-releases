@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "versionCode": 7,
-  "notes": "修复：资料编号与内部 id 解耦（课程页 01-05 整齐、资料页头部正常）、正文不再显示 Markdown 标记、长正文可滚动且长按可选中问 AI；设置页与 AI 对话沿用",
-  "apk": "dps-1.6.0.apk",
-  "sha256": "9cecc194eb28ee3e096876c389b7ac9ed88f7d54e8d9b9af8c07366ca8855474",
+  "version": "1.7.0",
+  "versionCode": 8,
+  "notes": "阅读排版清洗：合并 PDF 硬换行，修复 Eigen::Matrix4f / Eigen::Vector3f 这类被切断的单词，段落自然流动（不改内容包原文）；另含编号与 id 解耦、去 Markdown 标记、长按选中问 AI",
+  "apk": "dps-1.7.0.apk",
+  "sha256": "b90267bee0a278a880cc91610368f87f4e5aab830856801dee5ed48259511cdb",
   "size": 7342667
 }
