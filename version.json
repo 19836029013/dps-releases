@@ -1,9 +1,9 @@
 {
-  "version": "1.11.2",
-  "versionCode": 19,
-  "notes": "问 AI 弹窗对齐原型：去掉误入弹窗的选区工具条；输入框下方改为 [模型 pill] [风格 pill] + 发送键（点 pill 可切换模型/提示词风格）",
-  "apk": "dps-1.11.2.apk",
-  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.11.2.apk",
-  "sha256": "e6c76511745a86a1cd018d9bc61755fbbfca9796813d0b21431d05091fb0ca9f",
+  "version": "1.11.3",
+  "versionCode": 20,
+  "notes": "问 AI 弹窗与原型完全对齐：去掉误入弹窗的选区工具条、去掉重复的右上角模型名；结构为 来源标签 + 输入框 + [模型 pill][风格 pill] + 发送键（点 pill 可切换）",
+  "apk": "dps-1.11.3.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.11.3.apk",
+  "sha256": "ffe4728b935db7dec91348377b4f38c2fcc8a9589fb7e2547d7286f607b984a5",
   "size": 7376515
 }
