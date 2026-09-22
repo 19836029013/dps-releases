@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
-  "versionCode": 10,
-  "notes": "修复：阅读进度到末节不再失灵（滚到底显示 5/5·100%）、目录跳转准确、长按选中后可点击取消、排版分流（L02–L04 / Vector3f 不再被误插空格、int 与小数间补空格）、正文首行与小节标题重复时去重",
-  "apk": "dps-1.9.0.apk",
-  "sha256": "c4e4eadb2ee1f438bbd4f576faded9a00403de7b4c24a7eb4f20ea94fab26989",
+  "version": "1.9.1",
+  "versionCode": 11,
+  "notes": "修复 AI 弹窗被系统导航条/输入法遮挡（WindowInsets）；排版规则抽为纯函数并补 17 条 JVM 单测（含新发现：英文句点结尾不再粘连下一句）",
+  "apk": "dps-1.9.1.apk",
+  "sha256": "175bfbd5dbac24b2e2fe652f8f90e26e500babe01037535b24854926fb2a7481",
   "size": 7342667
 }
