@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "versionCode": 4,
-  "notes": "M2：自绘选区层上线 —— 正文拖选即浮出工具条【询问 AI｜复制】+ 两端可拖圆点，按原型实测值 1:1 迁移（高亮 #CFE1FD、圆点 9.2dp、工具条胶囊 30dp）；AI 对话沿用课程级线程与流式输出",
-  "apk": "dps-1.3.0.apk",
-  "sha256": "b5af17a74be8c0c78d5a269c275abca8ac6d2bb640df3ad20ab166de644950c2",
-  "size": 7342635
+  "version": "1.6.0",
+  "versionCode": 7,
+  "notes": "修复：资料编号与内部 id 解耦（课程页 01-05 整齐、资料页头部正常）、正文不再显示 Markdown 标记、长正文可滚动且长按可选中问 AI；设置页与 AI 对话沿用",
+  "apk": "dps-1.6.0.apk",
+  "sha256": "9cecc194eb28ee3e096876c389b7ac9ed88f7d54e8d9b9af8c07366ca8855474",
+  "size": 7342667
 }
