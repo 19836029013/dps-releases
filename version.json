@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "versionCode": 2,
-  "notes": "M1b：接入 GAMES101 真实资料 —— 5 份 PDF 转成结构化内容包内置，课程/资料列表与 Tab 全部由内容驱动；设置页（API Key 加密存储、模型列表实时拉取、版本检查）保持不变",
-  "apk": "dps-1.1.0.apk",
-  "sha256": "0d1302f411edd356b8a34a2d43200b28974c9c430609a7ea418dfc2f88ece30b",
-  "size": 7293483
+  "version": "1.2.0",
+  "versionCode": 3,
+  "notes": "M1c：真实 AI 对话上线 —— 课程级线程（一门课一个对话）+ 消息 JSON 持久化 + 内容包全量上下文（约 2.5 万字）+ 流式输出；四态问 AI 弹窗；无 Key 有引导；设置页联动模型与风格提示词",
+  "apk": "dps-1.2.0.apk",
+  "sha256": "05405e1b0af5bac08806508fdba968e1d96eb35b68bb960f522ad641dcacb2c9",
+  "size": 7326251
 }
