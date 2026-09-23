@@ -1,9 +1,9 @@
 {
-  "version": "1.12.1",
-  "versionCode": 22,
-  "notes": "修复选区手感：拖动圆点不再因坐标二次补偿而「轻轻一滑就整段全选」（实测小幅拖动只选中一个字符）；圆点触摸区从 9.2dp 放大到系统最小的 48dp，好拖多了；长按后手指直接拖动即可跟随手指扩展选区（原来拖正文只会滚动）",
-  "apk": "dps-1.12.1.apk",
-  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.1.apk",
-  "sha256": "51071ceea662b6cd12f6d92b887a8739374e110cc338d8639b1ae77cf485d9b6",
+  "version": "1.12.2",
+  "versionCode": 23,
+  "notes": "复制改用系统原生选区（长按即标准选择、跟手拖动、系统复制菜单，不再自绘工具条，也不会同时冒出多个弹窗）；去掉无标题页面里那条写死的 52dp 空白带（顶部紧贴状态栏）；「问 AI」改为页头按钮（不再依赖选中文字）",
+  "apk": "dps-1.12.2.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.2.apk",
+  "sha256": "26bdef8557da06d33ac19ade34e279f566e133e7432bf98219bfd778ed1c6762",
   "size": 7392899
 }
