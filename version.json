@@ -1,9 +1,9 @@
 {
-  "version": "1.12.3",
-  "versionCode": 24,
-  "notes": "恢复「✨ 询问 AI ｜ 📋 复制」文字工具条（上一版误删）；同时修好手感：连续段落合并为一个可跨段拖选的块（复制保留换行）、同一时刻只显示一个工具条（不再同时冒多个弹窗）、圆点触摸区 48dp 好拖、拖动不再一跳就全选",
-  "apk": "dps-1.12.3.apk",
-  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.3.apk",
-  "sha256": "6d837ce63da441d5a957772453cb4a7d508880537e2a71810fa93aa02ffb4ce6",
+  "version": "1.12.4",
+  "versionCode": 25,
+  "notes": "修复选区标记乱飞：手柄与工具条的坐标被重复叠加了一次容器偏移，靠下的段落会让两个圆点和弹窗飞到屏幕外；现在圆点贴在选区两端、工具条就在选区正下方",
+  "apk": "dps-1.12.4.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.4.apk",
+  "sha256": "951b259b8abb947540f1fa12f7c909168a7c810584fd4c89ea08ed8365fe1e45",
   "size": 7392899
 }
