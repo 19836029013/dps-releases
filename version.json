@@ -1,9 +1,9 @@
 {
-  "version": "1.12.2",
-  "versionCode": 23,
-  "notes": "复制改用系统原生选区（长按即标准选择、跟手拖动、系统复制菜单，不再自绘工具条，也不会同时冒出多个弹窗）；去掉无标题页面里那条写死的 52dp 空白带（顶部紧贴状态栏）；「问 AI」改为页头按钮（不再依赖选中文字）",
-  "apk": "dps-1.12.2.apk",
-  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.2.apk",
-  "sha256": "26bdef8557da06d33ac19ade34e279f566e133e7432bf98219bfd778ed1c6762",
+  "version": "1.12.3",
+  "versionCode": 24,
+  "notes": "恢复「✨ 询问 AI ｜ 📋 复制」文字工具条（上一版误删）；同时修好手感：连续段落合并为一个可跨段拖选的块（复制保留换行）、同一时刻只显示一个工具条（不再同时冒多个弹窗）、圆点触摸区 48dp 好拖、拖动不再一跳就全选",
+  "apk": "dps-1.12.3.apk",
+  "url": "https://raw.githubusercontent.com/19836029013/dps-releases/main/dps-1.12.3.apk",
+  "sha256": "6d837ce63da441d5a957772453cb4a7d508880537e2a71810fa93aa02ffb4ce6",
   "size": 7392899
 }
